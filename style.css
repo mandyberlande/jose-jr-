@@ -8,14 +8,6 @@ body {
 	background-color: #140136;
 }
 
-main {
-	display: grid;
-	grid-template-columns: repeat(4, 1fr);
-	gap: 8px;
-	padding: 24px;
-	justify-items: center;
-}
-
 .jose jr {
 	background: #73b9fc;
 	border-radius: 20px;
@@ -81,4 +73,5 @@ button {
 	cursor: pointer;
 
 }
+
 
