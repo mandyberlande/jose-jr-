@@ -1,0 +1,83 @@
+body {
+	font-family: sans-serif;
+	text-align: center;
+	text-shadow: 2px 2px 4px #ff0000;
+	color: #000607;
+	font-size: 30px;
+	margin-top: 80px;
+	background-color: #140136;
+}
+
+main {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 8px;
+	padding: 24px;
+	justify-items: center;
+}
+
+.bolsonaro-lula {
+	background: #73b9fc;
+	border-radius: 20px;
+	box-shadow: 0 6px 24px rgba(0,0,0,0.18);
+	padding: 40px 20px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 320px;
+	height: 380px;
+	margin: 0;
+	box-sizing: border-box;
+}
+header {
+	margin-bottom: 32px;
+}
+
+.header-divider {
+	border: none;
+	height: 4px;
+	background: linear-gradient(90deg, #ffe600 0%, #73b9fc 100%);
+	margin: 24px auto 0 auto;
+	width: 80%;
+	border-radius: 2px;
+}
+header h1 {
+	font-size: 2.8rem;
+	color: #ffe600;
+	text-shadow: 2px 2px 8px #013536;
+	margin: 0;
+	letter-spacing: 2px;
+}
+
+.bolsonaro-lula h2 {
+	font-size: 2rem;
+	color: #013536;
+	margin-bottom: 22px;
+	margin-top: 0;
+	word-break: break-word;
+}
+
+.bolsonaro-lula button {
+	margin-bottom: 22px;
+	width: 100%;
+	font-size: 1.5rem;
+	padding: 20px 0;
+}
+
+.bolsonaro-lula audio {
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+button {
+	margin: 10px;
+	padding: 15px 30px;
+	font-size: 18px;
+	border: none;
+	border-radius: 8px;
+	background-color: #004102;
+	color: rgba(255, 238, 0, 0.753);
+	cursor: pointer;
+
+}
