@@ -16,7 +16,7 @@ main {
 	justify-items: center;
 }
 
-.bolsonaro-lula {
+.jose jr {
 	background: #73b9fc;
 	border-radius: 20px;
 	box-shadow: 0 6px 24px rgba(0,0,0,0.18);
@@ -50,7 +50,7 @@ header h1 {
 	letter-spacing: 2px;
 }
 
-.bolsonaro-lula h2 {
+.jose jr h2 {
 	font-size: 2rem;
 	color: #013536;
 	margin-bottom: 22px;
@@ -58,14 +58,14 @@ header h1 {
 	word-break: break-word;
 }
 
-.bolsonaro-lula button {
+.jose jr button {
 	margin-bottom: 22px;
 	width: 100%;
 	font-size: 1.5rem;
 	padding: 20px 0;
 }
 
-.bolsonaro-lula audio {
+.jose jr audio {
 	width: 100%;
 	margin-bottom: 10px;
 }
@@ -81,3 +81,4 @@ button {
 	cursor: pointer;
 
 }
+
